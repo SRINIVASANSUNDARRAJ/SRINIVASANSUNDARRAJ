@@ -22,6 +22,6 @@ Java | Spring Boot | React | HTML | CSS | JavaScript | REST API | Data Structure
 Feel free to reach out for collaborations, projects, or just a tech chat.  
 
 📫 **How to reach me:**  
-srinivasanprince007@gmail.com | https://www.linkedin.com/srinivasan-sundarraj  
+srinivasanprince007@gmail.com | http://www.linkedin.com/in/srinivasan-sundarraj
 
 ---
